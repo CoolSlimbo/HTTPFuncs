@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HTTPBlueprints-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Satisfactory Modding\SatisfactoryModLoader\Intermediate\Build\Win64\FactoryGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\UE4Editor\Development\HTTPBlueprints\Module.HTTPBlueprints.cpp.obj"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\UE4Editor\Development\HTTPBlueprints\Module.HTTPBlueprints.gen.cpp.obj"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\UE4Editor\Development\HTTPBlueprints\Default.rc2.res"
+/OUT:"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\UE4Editor\Development\HTTPBlueprints\UE4Editor-HTTPBlueprints-0004.lib"
+/INCLUDE:IMPLEMENT_MODULE_HTTPBlueprints

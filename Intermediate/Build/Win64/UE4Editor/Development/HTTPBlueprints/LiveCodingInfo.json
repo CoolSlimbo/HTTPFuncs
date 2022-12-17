@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HTTPBlueprints.cpp.obj": [
+			"FileUtilities.cpp.obj",
+			"HTTPBlueprints.cpp.obj",
+			"HTTPBlueprintsBPLibrary.cpp.obj",
+			"JSONBase.cpp.obj",
+			"UHTTPResponseWrap.cpp.obj",
+			"URegex.cpp.obj"
+		],
+		"Module.HTTPBlueprints.gen.cpp.obj": [
+			"FileUtilities.gen.cpp.obj",
+			"HTTPBlueprints.init.gen.cpp.obj",
+			"HTTPBlueprintsBPLibrary.gen.cpp.obj",
+			"JSONBase.gen.cpp.obj",
+			"UHTTPResponseWrap.gen.cpp.obj",
+			"URegex.gen.cpp.obj"
+		]
+	}
+}

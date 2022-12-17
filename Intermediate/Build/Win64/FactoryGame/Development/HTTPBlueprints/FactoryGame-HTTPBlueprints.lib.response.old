@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"FactoryGame-HTTPBlueprints.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Satisfactory Modding\SatisfactoryModLoader\Intermediate\Build\Win64\FactoryGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\FactoryGame\Development\HTTPBlueprints\Module.HTTPBlueprints.cpp.obj"
+"D:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\FactoryGame\Development\HTTPBlueprints\Module.HTTPBlueprints.gen.cpp.obj"
+"D:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\FactoryGame\Development\HTTPBlueprints\Default.rc2.res"
+/OUT:"D:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\FactoryGame\Development\HTTPBlueprints\FactoryGame-HTTPBlueprints.lib"
+/INCLUDE:IMPLEMENT_MODULE_HTTPBlueprints

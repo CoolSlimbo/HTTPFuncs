@@ -1,0 +1,85 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"C:\Satisfactory Modding\Unreal Engine - CSS\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"C:\Satisfactory Modding\SatisfactoryModLoader\Intermediate\Build\Win64\FactoryGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\FactoryGame\Development\HTTPBlueprints\Module.HTTPBlueprints.cpp.obj"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\FactoryGame\Development\HTTPBlueprints\Module.HTTPBlueprints.gen.cpp.obj"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\FactoryGame\Development\HTTPBlueprints\Default.rc2.res"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\SML\ThirdParty\Win64\funchook.lib"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\SML\ThirdParty\Win64\detex.lib"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\SML\ThirdParty\Win64\libfbxsdk-md.lib"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\SML\ThirdParty\Win64\libxml2-md.lib"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\SML\ThirdParty\Win64\zlib-md.lib"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\SML\ThirdParty\Win64\AssemblyAnalyzer.lib"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\SML\ThirdParty\Win64\Zydis.lib"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\SML\ThirdParty\Win64\Zycore.lib"
+"C:\Satisfactory Modding\Unreal Engine - CSS\Engine\Intermediate\Build\Win64\FactoryGame\Development\CoreUObject\FactoryGame-CoreUObject.lib"
+"C:\Satisfactory Modding\Unreal Engine - CSS\Engine\Intermediate\Build\Win64\FactoryGame\Development\Engine\FactoryGame-Engine.lib"
+"C:\Satisfactory Modding\Unreal Engine - CSS\Engine\Intermediate\Build\Win64\FactoryGame\Development\Slate\FactoryGame-Slate.lib"
+"C:\Satisfactory Modding\Unreal Engine - CSS\Engine\Intermediate\Build\Win64\FactoryGame\Development\SlateCore\FactoryGame-SlateCore.lib"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Intermediate\Build\Win64\FactoryGame\Development\FactoryGame\FactoryGame-FactoryGame.lib"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\SML\Intermediate\Build\Win64\FactoryGame\Development\SML\FactoryGame-SML.lib"
+"C:\Satisfactory Modding\Unreal Engine - CSS\Engine\Intermediate\Build\Win64\FactoryGame\Development\Core\FactoryGame-Core.lib"
+"C:\Satisfactory Modding\Unreal Engine - CSS\Engine\Intermediate\Build\Win64\FactoryGame\Development\HTTP\FactoryGame-HTTP.lib"
+"C:\Satisfactory Modding\Unreal Engine - CSS\Engine\Intermediate\Build\Win64\FactoryGame\Development\Json\FactoryGame-Json.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Binaries\Win64\FactoryGame-HTTPBlueprints.dll"
+/IMPLIB:"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\FactoryGame\Development\HTTPBlueprints\FactoryGame-HTTPBlueprints.suppressed.lib"
+/PDB:"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Binaries\Win64\FactoryGame-HTTPBlueprints.pdb"
+/ignore:4078
+/INCLUDE:IMPLEMENT_MODULE_HTTPBlueprints

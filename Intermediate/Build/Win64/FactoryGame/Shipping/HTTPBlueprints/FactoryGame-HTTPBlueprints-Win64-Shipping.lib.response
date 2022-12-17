@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+/DEF
+/NAME:"FactoryGame-HTTPBlueprints-Win64-Shipping.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Satisfactory Modding\SatisfactoryModLoader\Intermediate\Build\Win64\FactoryGame\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\FactoryGame\Shipping\HTTPBlueprints\Module.HTTPBlueprints.cpp.obj"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\FactoryGame\Shipping\HTTPBlueprints\Module.HTTPBlueprints.gen.cpp.obj"
+"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\FactoryGame\Shipping\HTTPBlueprints\Default.rc2.res"
+/OUT:"C:\Satisfactory Modding\SatisfactoryModLoader\Plugins\HTTPBlueprints\Intermediate\Build\Win64\FactoryGame\Shipping\HTTPBlueprints\FactoryGame-HTTPBlueprints-Win64-Shipping.lib"
+/INCLUDE:IMPLEMENT_MODULE_HTTPBlueprints
